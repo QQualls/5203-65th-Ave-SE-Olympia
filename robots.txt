@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qqualls.github.io/5203-65th-Ave-SE-Olympia/sitemap.xml
